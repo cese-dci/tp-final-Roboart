@@ -1,0 +1,13 @@
+Adafruit I2S Stereo Decoder - UDA1334A Breakout 
+
+https://www.adafruit.com/product/3678
+
+1. Overview
+	https://learn.adafruit.com/adafruit-i2s-stereo-decoder-uda1334a
+
+2. Pinouts
+	https://learn.adafruit.com/adafruit-i2s-stereo-decoder-uda1334a/pinouts
+
+3. Schematics:
+	https://cdn-learn.adafruit.com/assets/assets/000/048/419/original/adafruit_products_schem.png?1511325937
+
