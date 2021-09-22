@@ -7,7 +7,8 @@ Este repositorio contiene el trabajo pr√°ctico final para la asignatura de Dise√
 
 
 ## Licencia de este trabajo ##
-Licencia Hardware: Creative Commons 4.0 International
+Licencia Hardware: Creative Commons 4.0 International.
+
 
 ## Estructura del TP FINAL ##
 
